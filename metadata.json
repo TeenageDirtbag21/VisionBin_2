@@ -1,0 +1,6 @@
+{
+  "name": "VisionBin",
+  "description": "A fully functional AI-powered waste classification web application aligned with SDG 11 & SDG 12 for Class 12 CBSE Capstone projects.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
